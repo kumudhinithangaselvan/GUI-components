@@ -26,8 +26,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:KAVISREE S
-Registeration Number :212222047001
+Developed by: KUMUDHINI T
+Registeration Number :212222040084
 */
 ```
 ## ACTIVITY MAIN-XML:
